@@ -161,10 +161,6 @@ Less expensive stock: Tesla - $120.50
 4. In sorting operations, items with equal values maintain their original order
 5. Program uses only standard libraries: `stdio.h`, `string.h`
 
-## Additional Information
-- **Author**: Roei Shahamon
-- **Semester**: Spring 2025 (תשפ"ה סמסטר ב')
-- **Assignment**: Exercise 1 in C Programming
 
 ## License
-Academic Project - All Rights Reserved
+This project was developed for the Introduction to Systems Programming course at Ben-Gurion University.
